@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/cat.jpg
 title: "Friend Identifier"
 date: 01/17/2024
 published: true
