@@ -2,8 +2,7 @@
 layout: essay
 type: essay
 title: "Software Engineering Journey"
-# All dates must be 2024-01-17 format!
-date: 2016-02-06
+date: 2024-01-17
 published: true
 labels:
   - Engineering
