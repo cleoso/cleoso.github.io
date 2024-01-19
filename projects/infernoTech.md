@@ -23,7 +23,8 @@ Our market research underscored the urgent need for fireproof gear that prioriti
 
 Eliminating PFAs isn't just a goal; it's a mission. These "forever chemicals" pose a serious health threat to firefighters through prolonged exposure. By offering a safer alternative, we aim to protect those who bravely protect us.
 
-<img title="cancer" alt="PFA" src="../img/infernoTech/cancerPFA.jpg">
+<img title="cancer" alt="PFA" src="../img/infernoTech/cancerPFA.jpg" width="700" height="350">
+
 
 And the journey doesn't stop here. We're constantly exploring new solutions, pushing the boundaries of innovation to ensure firefighters have the best possible tools at their disposal. This is more than just a competition; it's a commitment to the safety and well-being of these everyday heroes.
 
@@ -31,7 +32,7 @@ By merging passion with technology, we're crafting a revolution in firefighter g
 
 This revised version combines the content from both paragraphs into a single, cohesive narrative with a clear voice and purpose. It emphasizes the personal motivation behind the project, highlights the key innovations, and showcases the market research and commitment to safety. The tone is enthusiastic and passionate, reflecting the dedication to the project and the firefighters it aims to serve.
 
-<img title="cancer" alt="PFA" src="../img/infernoTech/NASAMFPIP.jpg">
+<img title="cancer" alt="PFA" src="../img/infernoTech/NASAMFPIP.jpg" width="700" height="350" >
 You can learn more about the NASA IP we selected for our proposal [Multilayered Fire Protection System](https://technology.nasa.gov/patent/LAR-TOPS-212)
 
 You can learn more about the NASA program [NASA MITTIC website](https://www.nasa.gov/learning-resources/minority-university-research-education-project/murep-innovation-tech-transfer-idea-competition-mittic/).
