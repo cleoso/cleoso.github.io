@@ -13,9 +13,9 @@ summary: "Using python to mimic gravity and have pygame to display the physics."
 
 <img class="catPhysics" src="../img/catPhysics/catPhysics.PNG">
 
-<hr>
+<h1>
 Cat and Physics
-<hr>
+<h1>
 
 Cat Physics is a python game that was created to mimic the real world physics in regards to gravity. Whilst also mimicing collisions with such gravity. I came to create this while taking a physics class while learning about Newton's gravity equation. Later I would come to across a video in which scientest experimented on cats in zero g's to determine whether they would fall to their feet.
 
@@ -25,8 +25,8 @@ Then Cat Physics was born, taking a template from a previously developed code I 
 
 Later would like to add where the code will ask you what gravity from which planet you would like the cat to experience.
 
-<hr>
+<h3>
 Weightless Cats - Do Space Cats Land On Their Feet?
-<hr>
+<h3>
 
 [![Watch the video](https://youtu.be/nTQUwghvy5Q](https://youtu.be/O9XtK6R1QAk?si=b8sezvD11s1xC7PZ)
