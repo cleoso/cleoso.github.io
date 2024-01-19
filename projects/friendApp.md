@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/freindApp/friends.gif
+image: img/friendApp/friends.gif
 title: "Friend Application"
 date: Wednesday, ‎September ‎28, ‎2022, ‏‎5:10:45 PM
 published: true
