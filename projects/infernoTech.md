@@ -33,6 +33,8 @@ By merging passion with technology, we're crafting a revolution in firefighter g
 This revised version combines the content from both paragraphs into a single, cohesive narrative with a clear voice and purpose. It emphasizes the personal motivation behind the project, highlights the key innovations, and showcases the market research and commitment to safety. The tone is enthusiastic and passionate, reflecting the dedication to the project and the firefighters it aims to serve.
 
 <img title="cancer" alt="PFA" src="../img/infernoTech/NASAMFPIP.jpg" width="50%" height="auto" >
+
+
 You can learn more about the NASA IP we selected for our proposal [Multilayered Fire Protection System](https://technology.nasa.gov/patent/LAR-TOPS-212)
 
 You can learn more about the NASA program [NASA MITTIC website](https://www.nasa.gov/learning-resources/minority-university-research-education-project/murep-innovation-tech-transfer-idea-competition-mittic/).
