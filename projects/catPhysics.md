@@ -27,7 +27,7 @@ Later would like to add where the code will ask you what gravity from which plan
 
 Here is the code:
 
-```cpp
+```{python}
 # pymunk
 # Create a 2d space for which physics will be observed within.
 # Physical objects, body an atom what is affected by physics
