@@ -29,4 +29,4 @@ Later would like to add where the code will ask you what gravity from which plan
 Weightless Cats - Do Space Cats Land On Their Feet?
 <hr>
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)(https://youtu.be/O9XtK6R1QAk?si=b8sezvD11s1xC7PZ)https://youtu.be/O9XtK6R1QAk?si=b8sezvD11s1xC7PZ
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)](https://youtu.be/O9XtK6R1QAk?si=b8sezvD11s1xC7PZ)https://youtu.be/O9XtK6R1QAk?si=b8sezvD11s1xC7PZ
