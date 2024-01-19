@@ -17,13 +17,21 @@ summary: "Using python to mimic gravity and have pygame to display the physics."
 Cat and Physics
 </h1>
 
-Cat Physics is a python game that was created to mimic the real world physics in regards to gravity. Whilst also mimicing collisions with such gravity. I came to create this while taking a physics class while learning about Newton's gravity equation. Later I would come to across a video in which scientest experimented on cats in zero g's to determine whether they would fall to their feet.
+Cat Physics started as a playful exploration of real-world physics, particularly gravity, during my physics class. Learning about Newton's gravity equation sparked my curiosity, and I stumbled upon a fascinating video of scientists experimenting on cats in zero gravity to see if they could still land on their feet.
 
-Interestingly enough against intuition the cats experiencing zero g's were not able to land on their feet. What was suggested as to the reason, without the force of gravity acting on the cats their biological responses were not able to adjust to the weightlessness. Then it forced me to consider what it means to virutally mimic gravity, on a digital landscape. How, do you compute this and additional, how might you considere developing a virtual representation that is both accurate with gravity but also when it collides with other objects.
+Intriguingly, the cats in zero G struggled to land on their paws. Scientists suggested that without the constant pull of gravity, the cats' biological responses couldn't adjust to weightlessness. This raised a challenging question: how could I accurately mimic gravity and its effects on collisions in a digital world?
 
-Then Cat Physics was born, taking a template from a previously developed code I coded the application by developing four things. First I needed to create and develop the space, in which the objects being represnted would fall. Second, I needed to create the objects themselves. I later chose the famous rainbow cat gif as my object and static black ball to allow for a collision. Thirdly I needed to create an initilizer to start the game. Finally when you play you simply need to click on the white space and the rainbow cat gif will appear, then it will experience gravity (depending on the settings). Once it hit the static ball it will simulate a collision with that gravity.
+Thus, Cat Physics was born. Building upon pre-existing code, I focused on four key elements:
 
-Later would like to add where the code will ask you what gravity from which planet you would like the cat to experience.
+1. Creating the Space: First, I needed a virtual environment where objects could interact with gravity. This involved defining the physics simulation and its parameters.
+
+2. Introducing the Objects: I chose the iconic rainbow cat GIF as my main character and a static black ball for collisions. Each object needed its own physical properties and behaviors.
+
+3. Initiating the Game: A game needs a starting point, so I built an initializer that sets the stage for the simulation and allows you to begin playing.
+
+4. Experiencing Gravity: With a simple click, the rainbow cat would materialize and fall under the simulated gravity (adjustable in the settings). Collisions with the black ball would then occur, showcasing the gravity's effect on both objects.
+
+My future plans include expanding the scope of Cat Physics. Imagine being able to choose gravity from different planets and witness the cat's unique movements under varying gravitational forces!
 
 Here is the code:
 
