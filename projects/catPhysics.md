@@ -11,7 +11,7 @@ labels:
 summary: "Using python to mimic gravity and have pygame to display the physics."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="catPhysics" src="img/catPhysics/catPhysics.PNG">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
