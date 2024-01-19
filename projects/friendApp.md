@@ -12,7 +12,7 @@ labels:
 summary: "A desktop application for storing friend data to a csv file for data manipulation."
 ---
 
-<img class="img-fluid" src="../img/friendApp/friends.jpg">
+<img class="img-fluid" src="../img/friendApp/friendAppGUI.PNG">
 
 My second semester of college sparked a passion for database development and building algorithms for intriguing predictions. This passion gave birth to the "Friend App," a project that started as a personal challenge to test my fledgling app-building skills. Initially, it was just a desktop application designed to store and track information about my friends. While incomplete, it marked my first foray into real-world application development.
 
