@@ -20,7 +20,7 @@ Then, I stumbled upon the fascinating world of machine learning and, specificall
 
 To achieve this, I needed a solid foundation. I crafted a Java object model representing a "friend" and built a graphical user interface (GUI) using Java Swing (the "outdated" aspect hinting at potential future library exploration). This app diligently saved all friend data in a CSV file, paving the way for Python to take over. With Python as my tool, I prepared to feed the data into the generative model and unveil the predicted traits of my future friend.
 
-<img class="img-fluid" src="../img/friendApp/friendAppGUI.PNG>
+<img class="img-fluid" src="../img/friendApp/friends.jpg>
 
 Here is the java object class code for the object Friend
 ```java
