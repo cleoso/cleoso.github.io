@@ -31,6 +31,8 @@ Thus, Cat Physics was born. Building upon pre-existing code, I focused on four k
 
 4. Experiencing Gravity: With a simple click, the rainbow cat would materialize and fall under the simulated gravity (adjustable in the settings). Collisions with the black ball would then occur, showcasing the gravity's effect on both objects.
 
+The cat physics game was the first game that I ever created with lots of help with many of different resources thanks to creators and other developers that assisted with developing this code.
+
 My future plans include expanding the scope of Cat Physics. Imagine being able to choose gravity from different planets and witness the cat's unique movements under varying gravitational forces!
 
 Here is the code:
@@ -67,7 +69,7 @@ def createApple(space, pos):
     space.add(body, shape)  # add to space
     return shape
 
-# drawing or developing the space 
+# drawing or developing the space
 def drawApple(apples):
     for apple in apples:
         positionX = int(apple.body.position.x)
@@ -75,7 +77,7 @@ def drawApple(apples):
         appleRect = appleSurface.get_rect(center=(positionX, positionY))
         screen.blit(appleSurface, appleRect)
 
-# create static object to act as collision 
+# create static object to act as collision
 def staticBall(space):
     # fixed position within space
     body = pymunk.Body(body_type=pymunk.Body.STATIC)
