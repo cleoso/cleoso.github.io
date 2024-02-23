@@ -10,6 +10,7 @@ labels:
   - Code structure
   - JavaScript
   - HTML/CSS
+---
 
 <img width="200px" class="" src="">
 
