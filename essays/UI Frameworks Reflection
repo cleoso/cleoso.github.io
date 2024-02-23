@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks is Rough"
+title: "UI Frameworks require Imagination"
+# All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
 labels:
   - Bootstrap 5
-  - HTML and CSS 
-  - Semantic UI
-  - Javascript
----
+  - Code structure
+  - JavaScript
+  - HTML/CSS
 
 <img width="200px" class="" src="">
 
