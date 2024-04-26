@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "T"
+title: "Designing, what does it mean?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
@@ -12,13 +12,13 @@ labels:
   - 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+Designing software is often discussed in various contexts, but it remains an ambiguous concept. For instance, when someone mentions designing software, it's unclear which aspect of the software they are referring to or the process they followed to derive the code. To engage in a meaningful conversation about designing software, it's essential to define what design means and how it relates to software engineering.
 
-*Description*
+The importance of design lies in its practicality and its ability to empower us. While we may readily recognize the design process in fields like acting, art, or music composition, we often overlook its significance in our daily lives. Designing follows a structured approach that begins with intent. Intent, shaped by the individual and the context, is crucial for determining the purpose of the action. While some argue that design is inherently problem-solving, it extends beyond that; for example, artists create without necessarily addressing a problem. This highlights the flexibility and adaptability of design, which can cater to various intentions and contexts.
 
-Designing software is such an obscure and almost always defined differently everytime someone brings it up. For example, when I say that I have designed software, what part? What process could you have derived a code from? And so forth. In order for us to have a conversation of designing software we need to determine what it means to design, and what would that entail when discussing about the context of software engineering. 
+Moreover, design necessitates the use of working memory or active memory, enabling us to draw upon past experiences and references to inform present actions. This cognitive effort underscores the energy required for effective design. Additionally, collaboration with others is integral to the design process. While it may seem that individuals can achieve tasks independently, designing for the benefit of others necessitates interaction and cooperation. Throughout history, humans have collaborated to design solutions that meet the needs of beneficiaries, underscoring the collaborative nature of design.
 
-What's its importance and how does having a design process benefit and no benefit us. Thus, we will discuss below those questions and attempt to derive an answer that best provides both clarity and reasonablness. 
+In summary, design is characterized by three main principles: intent, working memory, and collaboration. While subject to minor variations, this framework remains fundamental to the design process.
 
 ## Context of design
 
@@ -34,18 +34,20 @@ Ultimately, design requires three main principalities intent, working memory, an
 
 ## In the context of Software Engineering
 
-Software engineering requires deisigning and lots of it. It is as simple as other tasks because it truly requires heavy active memory, which increases the energy usage of any person. Therefore, the third principle is critical in minimizing the pain and suffering of one person to design and to be able to get a design from a meta thought to acutality. In the case of software engineering, the actuality of the design can be iterated quickly allowing for us to make changes quickly.
+Design plays a crucial role in software engineering, demanding substantial cognitive effort, particularly in the realms of intent and collaboration. Software engineering entails extensive design efforts, given its reliance on active memory and the need for collaborative problem-solving. By leveraging design methodologies, software engineers can streamline the development process and facilitate rapid iteration.
 
-Therefore, the majority of the pain and suffering is in the intent and collaboration. As we have found in the Man Myth model the more brains entangled into one subject suffers from the increased energy needed to both coordinate and be receptive to others thoughts. Therefore, the intent is needed to be clear and cannot change. The method of how to arrive to the intent may change however not the intent. 
+The challenges in software design primarily stem from intent and collaboration. Establishing a clear intent is paramount, as it guides the design process and ensures consistency amid evolving methodologies. While methods may vary depending on the context, adherence to the overarching intent remains essential.
 
-Moreover, methods are mutable because it requires to be adaptable to different contexts, you wouldn't approach a hospital app as you would a military grade software. The needs of the client are different, but the intent remains similar, they have an issue with developing, creating, maintaing, and deploying new software.
-
-There is something about the methods that we use that are similar in all cases, its patterns. Even the code language that we decide to develop software with follows a predictable syntax, that when broken, fails to render. Many patterns exists and are quite adaptable, which include creational design patterns, structural design patterns, and behavioral design patterns. 
+Despite the mutable nature of design methods, certain patterns persist across different contexts. Creational, structural, and behavioral design patterns offer adaptable solutions to common design challenges, ensuring consistency and efficiency in software development. 
 
 ## In the context of my work
 
-In my recent work we are developing a full stack developed website that both stores and tracks data over the internet for a club manager for the University of Hawaii at Manoa campus. Therefore, when I was looking at the 
+In a recent project, my team and I developed a full-stack website for managing clubs at the University of Hawaii at Manoa. Our design process involved incorporating behavioral and structural design patterns to address various user needs and system requirements.
 
-## what should we !
+From a behavioral standpoint, we focused on defining user roles and access levels to ensure security and accessibility. By categorizing users as visitors, subscribers, or club managers, we established clear guidelines for accessing and interacting with club-related data. Administrators were granted elevated privileges to verify and manage club information, ensuring data integrity and security.
 
+Structurally, we organized data using an entity-relationship model, allowing for efficient data retrieval and management. This relational database structure facilitated seamless navigation and filtering of club information, enhancing the user experience.
+
+## WE DESIGN FOR A BETTER ANYTHING!
+Design permeates every aspect of our lives, from artistic endeavors to software development. By understanding the principles of design and its application in software engineering, we can create innovative solutions that address complex challenges and enhance user experiences. Whether designing a piece of art or developing software, the principles of intent, working memory, and collaboration remain integral to achieving success.
 
