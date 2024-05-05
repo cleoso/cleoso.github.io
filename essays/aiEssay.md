@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "What AI means to me and the future"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-04
+published: true
+labels:
+  - Software Engineering
+  - AI
+  - ICS 314
+---
+
 ### I. Introduction
 AI will continue to be in our lives for the foreseeable future; what may change is how we use it and how we interact with it. Regardless of this, AI has been a great tool in assisting and providing guidance for this semester with ICS 314. Without AI, it could be reasoned that the course material would be more difficult since ICS 314 took considerably more time and effort for those who just started the course. Here I revisit concepts and analyze my experience using AI from a critical analysis standpoint throughout the semester. In my analysis, I convey my personal experience and my judgments of its usage in the future.
 
