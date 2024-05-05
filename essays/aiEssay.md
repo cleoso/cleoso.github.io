@@ -41,7 +41,7 @@ I have used AI in class this semester in the following areas:
 9. Asking or answering a smart-question
    I never used AI for asking questions; however, I used it indeed to answer my own smart-questions. AI was great at answering my questions and it was great at providing great solutions. For example, there was a time where I was attempting to install the library of Meteor and Mongo Database into the IntelliJ IDE but it failed to render. The issue was that it wasn't added to the main path from the IDE to the file location of the downloaded library in the local computer. Therefore, it was able to provide me a step-by-step instruction on how to do so, and I was able to answer my own smart-question.
 
-9.Coding example e.g. “give an example of using Underscore .pluck”
+10. Coding example e.g. “give an example of using Underscore .pluck”
   One of the examples that I needed more assistance with is how to create different roles in for users in the final project. I asked AI to please "give an example of how to use roles in meteor for different accounts with different privileges." Soon, after the AI was able to provide me step-by-step how to implement a role-based access control to the code.
         CODE PROVIDED BY CHATGPT:
         // server/main.js
@@ -61,7 +61,7 @@ I have used AI in class this semester in the following areas:
         });
         });
     
-10. Explaining code
+11. Explaining code
     Indeed, AI was great at explaining code; when we used templates I would copy the entire code and ask the AI to explain a part of the code or the entire code. AI was able to break the code up and document what each code did and how it worked. However, it would focus on the function of the code; at times, it wouldn't explain to you why the code didn't work. For example, in one of our in-class WODS I asked what one code did in its entirety and there were errors in the code. But, the AI was not instructed to explain to me whether the code worked, it simply told me what each function of the code did. Therefore, it lacked the nuance to explain to me what the error was with the simple prompt what does the code do.
 
 12. Writing code
