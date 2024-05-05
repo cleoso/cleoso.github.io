@@ -60,9 +60,7 @@ I have used AI in class this semester in the following areas:
         }
         });
         });
-
-Soon after I was able to get the code to work for our roles and used templates that we used prior to help us in the process.
-
+    
 10. Explaining code
     Indeed, AI was great at explaining code; when we used templates I would copy the entire code and ask the AI to explain a part of the code or the entire code. AI was able to break the code up and document what each code did and how it worked. However, it would focus on the function of the code; at times, it wouldn't explain to you why the code didn't work. For example, in one of our in-class WODS I asked what one code did in its entirety and there were errors in the code. But, the AI was not instructed to explain to me whether the code worked, it simply told me what each function of the code did. Therefore, it lacked the nuance to explain to me what the error was with the simple prompt what does the code do.
 
