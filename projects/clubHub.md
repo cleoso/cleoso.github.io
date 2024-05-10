@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: "Club Hub"
-date: Thursday, ‎May ‎09, ‎2024, ‏6:15:00 PM
+date: Thursday, ‎May ‎09, ‎2024, ‏6:15 PM
 published: true
 labels:
   - Meteor
@@ -16,7 +16,8 @@ summary: "Developing a club web application for visitors to University of Hawaii
 ## Designing Approach
 
 ## Concept
-<img src="" title="">
+<img src="../img/clubHub/homepage.png">
+
 ## Data Relation
 
 ## Implementation
