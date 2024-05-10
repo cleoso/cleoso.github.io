@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Meteor"]
     },
     {
       "name": "Entrepreneurship",
@@ -34,12 +34,12 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected graduation: Spring 2025)",
       "studyType": "B.S.",
       "startDate": "2024-01-07",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "ICS 314 Software Engineering", "ICS 355: Security and Trust I"
       ]
     }
   ],
@@ -52,8 +52,8 @@
       "endDate": "Present",
       "summary": "Manage and operate a team of 10 students, representing 3 other campuses. Conducting research, financial palnnig, and market adoption",
       "highlights": [
-        "Oversee all operations for project success and ensure project deliverables",
-        "Drive, design and build "
+        "prototyping",
+        "e-textile"
       ]
     },
     {
