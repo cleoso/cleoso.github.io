@@ -1,33 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Tracking the effort"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2024-04-10
+published: true
 labels:
-  - Engineering
+  - Tracking esimation
+  - Effort tracking system
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Introduction
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+Why does tracking matter, what could we gain from tracking, and what could we do with information? Tracking has been a way that our ancestors have been able to determine best course of actions like where to go, and gave more insight in the action to be better. Without tracking many things that are predictable would be left to chance. Imagine, if we were not able to keep record and be able to track down food sources would we have stand a chance agaisnt the elements. Ultimately, tracking provides us a track record of past things done in order for better effeciency. Why waste energy or time on things that are easily predictable and trackable? Therfore, tracking has been a cornerstone of the most important way we are able to determine what actions require better insight into in order to be more effecient.
 
 ## In the context of programming
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+In the context of programming, this has always been true. The problem was more about the 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
 ## In the context of engineering
 
