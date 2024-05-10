@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/clubHub/dataTraffic.png
 title: "Club Hub"
 date: Thursday, ‎May ‎09, ‎2024, ‏6:15 PM
 published: true
