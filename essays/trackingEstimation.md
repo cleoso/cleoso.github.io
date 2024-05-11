@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Tracking the effort"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-10
+date: 2024-05-10
 published: true
 labels:
   - Tracking esimation
