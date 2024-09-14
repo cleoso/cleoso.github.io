@@ -20,12 +20,14 @@
     { "name": "Entrepreneurship" },
     { "name": "Robotics" },
     { "name": "Engineering" },
-    { "name": "NASA" }
+    { "name": "NASA" },
+    { "name": "Electronics" },
+    { "name": "Philosophy" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Meteor"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Meteor", "Linux", "Python", "Self"]
     },
     {
       "name": "Entrepreneurship",
@@ -66,6 +68,17 @@
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "NASA Ames Research Center; ",
+      "position": "SBIR/STTR System Management Intern",
+      "website": "",
+      "startDate": "2024-03",
+      "endDate": "2024-08",
+      "summary": " SharePoint developer for SBIR/STTR System Management team, Developed Flows that were able to automate tickets within SBIR/STTR Planners, Reviewed Java client-side applications for ProSAMS database, Developed ProSAMs and EHB tracker for enhancements and bugs, Implemented automation for work flows with forms connected SBIR Help Desk teams",
+      "highlights": [
+        "Sharepoint development and Microsoft 365 Office"
       ]
     }
   ],
