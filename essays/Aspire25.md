@@ -1,45 +1,36 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks require Imagination"
+title: "Aspire 25 Fincial Web Application"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-22
+date: 2025-05-08
 published: true
 labels:
-  - Bootstrap 5
-  - Code structure
+  - Next.js
+  - Bootstrapped
+  - Web Application
   - JavaScript
-  - HTML/CSS
+  - Vercel
 ---
 
 <img width="200px" class="" src="">
 
 **UI Frameworks**
 
-<h3>Bootstrap 5</h3>
+<h3> Project Aspire 25 </h3>
 
-There are many reasons that we would, or I would use Bootstrap 5 in developing websites. It's the old saying, "don't reinvent the wheel". Using Bootstrap 5 would help with building responsive design using built-in classes and components that create responsive layouts.
-Using component style based classes allows for faster development becuase it allows us to edit existing classes to quickly get things in order. Furthermore, with pre built classes it allows for consistency and compatibility. This compatibility allows for us to ensure different components across the
-website is standardized. I noticed that customization of the Bootsratp 5 librarys can meet specific needs and was easily customizable. This allowed for sepcific looks and UI tools like buttons or structure to be made.
+Part of our ICS 414 Software Engineering course II at UH Manoa, we have a client that wanted to have a comprehensive web application where it allowed respected users in the company to execute financial audits, projections, and more. The web application would replace their pen and paper operations. The client had very specific requirements. The web application should reflect the real world and the work that each member of the company. Therefore, the client had requested that roles be implmeneted to reflect their corporate structure. There woudl be an auditor, executive, admin, and analyst. Each role had a different data permisison for what each role is able to do, what each role is able to read and or write.
+
+The auditor would be able to edit some data in the financial statements that are collected in database on the backened. But they were only able to write and read the outcomes of their inputs. Not the already existing data that is in the system. The executive role is able to toggle stress test on or off, toggle the total, and details about the graphs. Therefore, they are only able to read graphed and charted resultes in the SM. The admin is abel to asssign roles to users (similar to onboarding), creating new user, and deleteing existing users. They are able to read any user accounts and any data from the digital accounts that are made in order to provide new and existing users access to certain information. Finally, the analyst is able to write anything that has a green box in FC, stress test, and workpapers S1-S5B. Analysts are also able to read the SM. 
+
+Given these roles we are given financial data, via excel sheet, where we need to connect to a backend database in order for the website to have data for each role to manipulate. This was the critical part of the web application as it was the bases for where work is going to be done. 
+
+<h3>Obstacles</h3>
+
+Given our prompt and our need to work on things we are seen following the 
+
+<h3>A Template of success</h3>
+
+<h3>Solutions</h3>
 
 
-<h3>obstacles</h3>
-
-In regards to the obstacles that I faced when writing my HTML was the imagination. I have issues with styling, inserting content into a website is easy for me but when you tell me make the UI of the website similar to another. It was difficult, for two reasons. First reason, requires understanding of the HTML structure.
-Once you understand the framework of the website then you can develop a plan of action of sorts to address those. In many of our WODS we attmpted to copy a website UI framework but used previously built websites as a template. This was indeed challenging becuase of the fact that we had to alter the visuals and test the code.
-Testing the code allowed us to see the changes but gave little help, additional using ChatGPT or other AI didn't help since they can't build a website excatly to meet to the sepcific needs of your UI.
-Secondly, imagination was needed to anticipate the changes that you would make to a website. Without a understanding of how the style sheet affected the HTML then you can't really anticipate or predict the viusal of the website.
-
-<h3>Return on Investments</h3>
-
-Although the difficulties in the WOD's and the understanding of Bootstrap 5, it's important and relevant to software engineering for several reasons. One reason is that it is a library in which you are able to referrence in order to quickly deploy a website.
-Secondly its predicitable with some understaning of Bootstrap, once you understand the content you can easily predict how the component of the website will be built. Additionally, it becomes easier to read and allows us to really attempt to edit these components in order
-to develop a functioning UI. Overall, many of parts of the boostraps 5 and UI framework we worked on were indeed helpful, but it still required many, many iterations in order for me to understand the component based style rather than raw CSS styling, which I was originally used too.
-
-<h3>Content that I found useful</h3>
-There is a person on the internet that records himself doing ASMR programming where he codes the UI framework of an entire website from scracth using no Bootstrap 5. I thought it was amazing and indeed I used to watch and learn many of the way to build the website. 
-I was inspired to build websites when I built my first one and used no Bootstrap 5. I will say, comparing using raw HTML and CSS to Bootstrap 5 I could see how the time it took for me to develop a website would dramatically go down. Component based style coding was first introduced to me by React Native, when building websites by component based 
-language was getting popular. At first it was completely different from HTML and CSS raw programming, thus the learning curve was pretty intense. But, I believe that with my knowledge now with 
-
-<h3>ASMR Programming Video</h3>
-[![ASMR](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Nk0kiq-hss0)
