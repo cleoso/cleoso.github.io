@@ -39,5 +39,5 @@ First we decided that the project was going to be bootstrapped, using the next.j
 
 Afterwards we were able to delegate some work to be done. The issues tab for each milstone allowed our team to better get an understadning of the techncial challenges that we faced each step of the way. For each milestone we had to deliver an update to the client direclty about the progresssion of the applciation. Each milstone the client was able to make a suggestion about what could be tweeked and either veto some solutions that the team brought. 
 
-
+Nonetheless, after each milestone we provided the client with significant updates and by the end of the semester we had a fully functioning web application. However, here is what I would say our team could have done better. Ticket formation, when developing issues in our github project it was difficult to understand the issues were and how it needed to be fixed. In cases where one of our team members were gone due to other obligations or emergency, when another team member was going to take over their issue at times the issues would be vauge. This causes much confusion where specificity wouldn't. This backlogged some issues especially when the issue was holding back from another issue being started. 
 
