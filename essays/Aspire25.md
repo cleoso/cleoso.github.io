@@ -27,10 +27,17 @@ Given these roles we are given financial data, via excel sheet, where we need to
 
 <h3>Obstacles</h3>
 
-Given our prompt and our need to work on things we are seen following the 
+Although we had a diverse group set we had to determine how we would align in how we will deliver results, agree on conduct, and communication channels. With a large group of seven we had to discuss the project as a whole. Communication was key to our success, without communication of questions or concerns we would not have been able to have a understanding of the issues that we had, but moreover the client had. For example, we had to determine roles for each user on the account, it was not clear to us what each role was able to see from a front end side and what those roles were able to clearly edit. We had to ask the client and the professor in order to get a better scope of the roles and how the web application would be executing those tasks. 
+
+Secondly, we had to determine the schema of the data within the application. When given roles data is being manipulated and for the most part much of the data is simulation based on real data collected. Therefore, it is important that the data that was provided, via excel data sheets, was not altered when running simulations or audits for example. Furthermore, the integerity of the data needs to be attached to the roles so that when the application renders the data for users its not corrupted by these simulation.
 
 <h3>A Template of success</h3>
 
-<h3>Solutions</h3>
+Regardless of some of the obstacles that we faced both internally and challenges faced by the project alone our team was successful in collectivley breaking down the project as a whole. 
+
+First we decided that the project was going to be bootstrapped, using the next.js libraries to build the application. Secondly, we would deploy the application on Vercel. Before we began coding, we as a team decided to develop key issues in the beginning with requirements that the client had about the function of web application. This laid foundation for where we will start. 
+
+Afterwards we were able to delegate some work to be done. The issues tab for each milstone allowed our team to better get an understadning of the techncial challenges that we faced each step of the way. For each milestone we had to deliver an update to the client direclty about the progresssion of the applciation. Each milstone the client was able to make a suggestion about what could be tweeked and either veto some solutions that the team brought. 
+
 
 
